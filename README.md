@@ -1,2 +1,2 @@
 # hakoiko-ui-kit
-Vue ui framework.
+Next generation UI kit for Vue
